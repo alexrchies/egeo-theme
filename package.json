@@ -16,10 +16,10 @@
     "url": "https://github.com/Stratio/ui-fonts"
   },
   "devDependencies": {
-    "autoprefixer": "^6.5.1",
+    "autoprefixer": "6.5.1",
     "json": "9.0.4",
     "node-sass": "4.3.0",
-    "postcss-cli": "^2.6.0",
+    "postcss-cli": "2.6.0",
     "rimraf": "2.5.4",
     "sass-lint": "1.10.2",
     "ui-base": "0.2.0-SNAPSHOT"
