@@ -1,4 +1,6 @@
-.sth-button {
+$this: 'sth-button';
+
+.#{$this} {
    font-family: egeo-get-font(heading);
    font-size: egeo-get-font-size(body_medium);
    line-height: 1.5;
