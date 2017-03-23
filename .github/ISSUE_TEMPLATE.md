@@ -1,9 +1,9 @@
 ** Please don't delete this template or we'll close your issue **
 
 **I'm submitting a ...**
-[ ] bug report
-[ ] feature request
-[ ] question
+- [ ] bug report
+- [ ] feature request
+- [ ] question
 
 **Define your petition as much as possible**
 
@@ -28,6 +28,7 @@
 **Please tell us about your environment:**
 
 - Egeo version: 1.x.x
+- Egeo Theme version: 1.x.x
 - Browser: [all | Chrome XX | Firefox XX | IE XX | Edge XX | Safari XX ]
 
 
